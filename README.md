@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wu0gaj
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning Python
 
 <!---
 wu0gaj/wu0gaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
